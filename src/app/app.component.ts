@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { HomeScreenComponent } from './home-screen/home-screen.component';
 
 @Component({
   selector: 'my-app',
