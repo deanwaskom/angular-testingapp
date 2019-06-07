@@ -3,3 +3,5 @@ p {
 }
 
 .head-bar { width: 100%; padding: 5px; background: rgb(150,150,150); color: rgb(255,255,255); }
+.app-home { width: 50%; float: left }
+.app-info { width: 50%; float: right }
